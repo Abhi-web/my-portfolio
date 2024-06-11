@@ -1,0 +1,15 @@
+[
+
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "c",
+        "icon": "https://img.icons8.com/color/48/000000/c.png"
+    }
+]
